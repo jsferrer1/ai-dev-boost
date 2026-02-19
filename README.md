@@ -116,7 +116,7 @@ This document outlines a specific high-performance workflow (**The Steinberger P
 *   **Cline CLI 2.0:** A powerful command-line agent.
     *   *Status:* **Time Sensitive.**
     *   *Opportunity:* Currently, **MiniMax M2.5** and **Kimi K2.5** models are free to use within Cline.
-    *   *Usage:* Use this to benchmark performance against GPT-4o or Claude 3.5 Sonnet at no cost. [Source Announcement](https://x.com/cline/status/2022341254965772367?s=20).
+    *   *Usage:* Use this to benchmark performance against GPT-Codex-5.3 or Claude Opus/Sonnet 4.6 at no cost. [Source Announcement](https://x.com/cline/status/2022341254965772367?s=20).
 
 ### 2. 📚 Resource Libraries
 *   **Everything Claude Code:**
