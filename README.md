@@ -2,7 +2,7 @@
 # 🚀 ai-dev-boost
 
 
-### Proposal for Agentic Engineering Workflow & Tooling
+### Agentic Engineering Workflow & Tooling
 
 This repository compiles a comprehensive stack to transition our development process from standard auto-complete to **Agentic Engineering**.
 
